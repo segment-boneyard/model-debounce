@@ -1,0 +1,17 @@
+{
+  "name": "model-defaults",
+  "repo": "segmentio/model-defaults",
+  "description": "Debounces a model's save and update methods.",
+  "keywords": ["model", "debounce", "throttle"],
+  "license": "MIT",
+  "version": "0.0.1",
+  "dependencies": {
+    "component/debounce": "*",
+    "ianstormtaylor/is": "*"
+  },
+  "development": {
+    "component/assert": "*",
+    "component/model": "*"
+  },
+  "scripts": ["index.js"]
+}
