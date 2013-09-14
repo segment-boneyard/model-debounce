@@ -20,7 +20,7 @@ var Person = model('person')
 
 // or specify the interval yourself
 var Person = model('person')
-  .use(debounce(100))
+  .use(debounce(300))
   .attr('name')
   .attr('age');
 ```
