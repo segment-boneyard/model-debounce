@@ -1,6 +1,6 @@
 {
-  "name": "model-defaults",
-  "repo": "segmentio/model-defaults",
+  "name": "model-debounce",
+  "repo": "segmentio/model-debounce",
   "description": "Debounces a model's save and update methods.",
   "keywords": ["model", "debounce", "throttle"],
   "license": "MIT",
